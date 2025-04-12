@@ -1,0 +1,22 @@
+[
+    {
+        "id": "mascota1",
+        "nombre": "Max",
+        "tipo": "Perro",
+        "edad": 5
+    },
+    {
+        "id": "mascota2",
+        "nombre": "Luna",
+        "tipo": "Gato",
+        "edad": 3
+    },
+    {
+        "nombre": "Firulais",
+        "tipo": "Perro",
+        "edad": 3,
+        "raza": "Labrador",
+        "vacunado": true,
+        "id": "67faa6e8ce82e"
+    }
+]
